@@ -69,7 +69,7 @@
 // }
 // console.log(a);
 
-// 4 row 5 column *
+// 5 row 4 column *
 let a = "";
 for (let i = 0; i < 5; i++) {
   for (let k = 0; k < 3; k++) {
