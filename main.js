@@ -72,10 +72,9 @@
 // 5 row 4 column *
 let a = "";
 for (let i = 0; i < 5; i++) {
-  for (let k = 0; k < 3; k++) {
+  for (let k = 0; k < 4; k++) {
     a += "* ";
   }
-  a += "*";
   a += "\n";
 }
 console.log(a);
